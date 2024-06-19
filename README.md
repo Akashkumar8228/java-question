@@ -1,2 +1,2 @@
 # java-question
-my reposetry
+my repository
